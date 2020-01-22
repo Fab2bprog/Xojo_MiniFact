@@ -11,7 +11,7 @@ This is the beginning of a billing software, inventory management, product manag
 To run Minifact ( it's in french) at the beginning:
 Fichier->Ouvrir
 And Select database.rsd
-There is no pasword.
+There is no password.
 
 
 Enjoy.
