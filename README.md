@@ -8,6 +8,10 @@ I save this project with a demo version of Xojo 2019 R3.
 
 This is the beginning of a billing software, inventory management, product management that I abandoned few years ago. I would very much like someone to finish this development.
 
+
+The software is delivered as is, with its bug. We can consider it as a demo how to access database sqlite.
+
+
 To run Minifact ( it's in french) at the beginning:
 Fichier->Ouvrir
 And Select database.rsd
