@@ -2,6 +2,7 @@
 
 It is several months of development work that I give to the xojo community !!!!!!
 I prefer that to leave it in the drawer...
+Initially developed with realbasic 2011, I migrated this project under xojo 2019.
 
 This is a very very very advanced example of what you can do with xojo (https://www.xojo.com/)
 I save this project with a demo version of Xojo 2019 R3.
