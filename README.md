@@ -8,6 +8,8 @@ I save this project with a demo version of Xojo 2019 R3.
 
 This is the beginning of a billing software, inventory management, product management that I abandoned few years ago. I would very much like someone to finish this development.
 
+The "icons" folder must be located in the same directory as MiniFact.xojo_binary_project.
+It contains all the icons necessary to compile the program.
 
 The software is delivered as is, with its bug. We can consider it as a demo how to access database sqlite.
 
