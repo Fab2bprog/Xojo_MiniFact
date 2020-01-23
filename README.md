@@ -13,7 +13,7 @@ The software is delivered as is, with its bug. We can consider it as a demo how 
 
 
 To run Minifact ( it's in french) at the beginning click on the menu:
-Fichier->Ouvrir Fichier
+[Fichier]->[Ouvrir Fichier]
 And Select database.rsd
 There is no password.
 
