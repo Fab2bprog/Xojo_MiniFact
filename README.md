@@ -12,8 +12,8 @@ This is the beginning of a billing software, inventory management, product manag
 The software is delivered as is, with its bug. We can consider it as a demo how to access database sqlite.
 
 
-To run Minifact ( it's in french) at the beginning:
-Fichier->Ouvrir
+To run Minifact ( it's in french) at the beginning click on the menu:
+Fichier->Ouvrir Fichier
 And Select database.rsd
 There is no password.
 
