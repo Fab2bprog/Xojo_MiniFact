@@ -17,7 +17,7 @@ This is the beginning of a billing software, inventory management, product manag
 The "icons" folder must be located in the same directory as MiniFact.xojo_binary_project.
 It contains all the icons necessary to compile the program.
 
-The software is delivered as is, with its bug. We can consider it as a demo how to access database sqlite.
+The software is delivered as is, with its bug. We can consider it as a demo how to access database.
 
 To run Minifact ( it's in french) at the beginning click on the menu:
 [Fichier]->[Ouvrir Fichier]
