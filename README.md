@@ -21,10 +21,10 @@ It contains all the icons necessary to compile the program.
 
 The software is delivered as is, with its bug. We can consider it as a demo how to access database.
 
-To run Minifact ( it's in french) at the beginning click on the menu:
+To run Minifact at the beginning click on the menu:
 [Fichier]->[Ouvrir Fichier]
 And Select database.rsd
-There is no password.
+(There is no password.)
 
 
 Enjoy.
