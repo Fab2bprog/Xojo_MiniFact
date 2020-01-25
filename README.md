@@ -1,5 +1,7 @@
 # Xojo_MiniFact
-
+<p align="center">
+  <img src="https://github.com/Fab2bprog/Xojo_MiniFact/raw/master/project%20screenshots/Capture.JPG" width="650" title="hover text">
+ </p>
 
 By exploring the source code of this application you will be able to learn all of the most important notions of programming in xojo:
 textbox, listbox, window, treeview, using of sqlite database ... 
