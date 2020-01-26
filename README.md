@@ -5,7 +5,7 @@
   <img src="https://github.com/Fab2bprog/Xojo_MiniFact/raw/master/project%20screenshots/Capture.JPG" width="650" title="Minifact screenshot">
  </p>
  
-This is the beginning of a billing software, inventory management, product management. It can be used as a basis for developing business-type applications. The software is delivered as is, in its state of development.
+It is the structure of billing software, inventory management, product management. It can be used as a basis for developing business-like applications. The software is delivered as is, in its development state.
 
 For beginners exploring the source code of this application : you can learn all the most important notions of programming in xojo:
 textbox, listbox, window, treeview, use of the sqlite database ... You will also learn how to manage windows and how to pass values between several windows.
