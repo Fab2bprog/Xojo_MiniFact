@@ -1,18 +1,17 @@
 # Xojo_MiniFact
-<p align="center" >Billing software in Xojo programming language. </p>
+<p align="center" >Billing software model in Xojo programming language. </p>
 
 <p align="center">
   <img src="https://github.com/Fab2bprog/Xojo_MiniFact/raw/master/project%20screenshots/Capture.JPG" width="650" title="Minifact screenshot">
  </p>
+ 
+This is the beginning of a billing software, inventory management, product management. It can be used as a basis for developing business-type applications. The software is delivered as is, in its state of development.
 
-By exploring the source code of this application you will be able to learn all of the most important notions of programming in xojo:
-textbox, listbox, window, treeview, using of sqlite database ... 
-You will also learn how to manage windows and how to pass values between several windows.
+For beginners exploring the source code of this application : you can learn all the most important notions of programming in xojo:
+textbox, listbox, window, treeview, use of the sqlite database ... You will also learn how to manage windows and how to pass values between several windows.
 
-This is the beginning of a billing software, inventory management, product management that I abandoned few years ago. I would very much like someone to finish this development.The software is delivered as is, in its state of development.
-
-It is several months of development work that I give to the xojo community !
-I prefer that to leave it in the drawer...
+- User rights management: One of the advantages of this code base is that it integrates user management, user groups, read / write rights on the screens.
+- Data list windows: They can manage without fear lists of millions of data: because they integrate the notion of pagination.
 
 Initially developed with realbasic 2011. I save this project with a demo version of Xojo 2019R3.
 
