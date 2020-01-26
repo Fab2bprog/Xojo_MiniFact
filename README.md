@@ -20,13 +20,11 @@ So much of the basic work no longer needs to be done.
 
 
 In short: I made the structure, now develop your software.
+--------------------------------
 
-----------------
-Initially developed with realbasic 2011. I save this project with a demo version of Xojo 2019R3.
+Initially developed with realbasic 2011. I save this project with a demo version of Xojo 2019R3. 
+The icons folder must be located in the same directory as MiniFact.xojo_binary_project. It contains all the icons necessary to compile the program.
 
-The "icons" folder must be located in the same directory as MiniFact.xojo_binary_project.
-It contains all the icons necessary to compile the program.
-----------------
 
 To run Minifact at the beginning click on the menu:
 [Fichier]->[Ouvrir Fichier]
