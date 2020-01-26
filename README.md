@@ -22,7 +22,7 @@ It contains all the icons necessary to compile the program.
 To run Minifact at the beginning click on the menu:
 [Fichier]->[Ouvrir Fichier]
 And Select database.rsd
-(There is no password.)
+(There is no password, But you have to select the user Administrateur.)
 
 
 Enjoy.
