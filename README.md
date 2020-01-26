@@ -25,8 +25,7 @@ In short: I made the structure, now develop your software.
 
 Initially developed with realbasic 2011. 
 I recorded and tested the source code with a demo version of Xojo 2019R3 to be sure that it is compatible with the latest versions. 
-This repository contains only source code given free of charge and for the sole purpose of helping the Xojo community.
-You must absolutely acquire a valid license key from Xojo to build an independant application.
+This repository contains only source code given free of charge and for the sole purpose of helping the Xojo community and promoting the use of Xojo RAD. You must absolutely acquire a valid license key from Xojo to build an independant application.
 
 The icons folder must be located in the same directory as MiniFact.xojo_binary_project. 
 It contains all the icons necessary to compile the program.
