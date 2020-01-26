@@ -16,6 +16,7 @@ textbox, listbox, window, treeview, use of the sqlite database ... You will also
 So much of the basic work no longer needs to be done.
 - Management of article nomenclature in TreeView, with an infinite number of levels.
 - 46 windows: some fully functional, others that must be fully coded. With regard to the fields present full of ideas you will come to mind to develop an application that meets your needs.
+- At item level: management of purchase and sale prices, ean codes. Ability to dynamically create product features by the end user.
 - The software contains the description of the database in a dictionary inside the source code.
 
 
