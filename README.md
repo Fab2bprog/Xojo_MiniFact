@@ -13,9 +13,8 @@ This is the beginning of a billing software, inventory management, product manag
 
 It is several months of development work that I give to the xojo community !
 I prefer that to leave it in the drawer...
-Initially developed with realbasic 2011, I migrated this project under xojo 2019.
 
-I save this project with a demo version of Xojo 2019 R3.
+Initially developed with realbasic 2011. I save this project with a demo version of Xojo 2019R3.
 
 The "icons" folder must be located in the same directory as MiniFact.xojo_binary_project.
 It contains all the icons necessary to compile the program.
