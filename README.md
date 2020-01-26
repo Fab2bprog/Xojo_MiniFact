@@ -1,5 +1,5 @@
 # Xojo_MiniFact
-Billing software in Xojo programming language.
+<p align="center" >Billing software in Xojo programming language. </p>
 
 <p align="center">
   <img src="https://github.com/Fab2bprog/Xojo_MiniFact/raw/master/project%20screenshots/Capture.JPG" width="650" title="Minifact screenshot">
