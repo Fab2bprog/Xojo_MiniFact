@@ -6,10 +6,10 @@
  </p>
  
 It is the structure of invoicing software, inventory management, product management. 
-It can be used :
--As a basis for developing professional applications.
--As a source of inspiration for the development of another application.
--For educational purposes for learning Xojo. 
+It can be used as :
+- A basis for developing professional applications.
+- A source of inspiration for the development of another application.
+- For educational purposes for learning Xojo. 
 
 The software is delivered as is, in its development state (not finalized).
 
