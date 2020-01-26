@@ -16,6 +16,8 @@ The software is delivered as is, in its development state (not finalized).
 For beginners exploring the source code of this application : you can learn all the most important notions of programming in xojo:
 textbox, listbox, window, treeview, use of the sqlite database ... You will also learn how to manage windows and how to pass values between several windows.
 
+For advanced users who wish to build a fully functional application on the basis of this source code, it will be interesting to know that the current code includes:
+
 - User rights management: One of the advantages of this code base is that it integrates user management, user groups, read / write rights on the screens.
 - Data list windows: They can manage without fear lists of millions of data: because they integrate the notion of pagination.
 - Standard data management (customers, suppliers, taxes, measurement units, postal code, products) combining list and input screen.
